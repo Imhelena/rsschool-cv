@@ -1,2 +1,2 @@
 # rsschool-cv
-My repository
+My super CV
